@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1068867856792",
+    "project_id": "super-chat-b3bba",
+    "storage_bucket": "super-chat-b3bba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1068867856792:android:3e8629b1656aecdd98e3ed",
+        "android_client_info": {
+          "package_name": "com.allenfencer.database_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1068867856792-eunsle72knfmtvqf23bidhtse7ub3al0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7lvT_BQSIn9zC3I2B_hSWfHPUJKrdNrU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1068867856792-eunsle72knfmtvqf23bidhtse7ub3al0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1068867856792:android:f3702d18edbadff398e3ed",
+        "android_client_info": {
+          "package_name": "com.allenfencer.superchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1068867856792-eunsle72knfmtvqf23bidhtse7ub3al0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7lvT_BQSIn9zC3I2B_hSWfHPUJKrdNrU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1068867856792-eunsle72knfmtvqf23bidhtse7ub3al0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
